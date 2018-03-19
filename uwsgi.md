@@ -136,7 +136,7 @@
 
 **我的其它相关文章**
 
--   [基于gunicorn部署django](http://note.youdao.com/noteshare?id=623eb7a352631845afc61de7a92c9d26&sub=1BF18AE2C05D4FC3B79FFC5AA9340BA7)
+-   [基于gunicorn部署django](https://github.com/newpepsi/django-depolyment-cn/blob/master/gunicorn.md)
 -   
 
 **QQ讨论群**

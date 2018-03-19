@@ -97,7 +97,7 @@ python 版本2.7
 
 **我的其它相关文章**
 
--   [基于uWSGI部署django](http://note.youdao.com/noteshare?id=f54d2c19abf0c0a03719128ac492d28d&sub=7B433A1954A74152BAA868801E6C1ADD)
+-   [基于uWSGI部署django](https://github.com/newpepsi/django-depolyment-cn/blob/master/uwsgi.md)
 
 **QQ讨论群**
 
